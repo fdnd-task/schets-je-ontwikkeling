@@ -1,5 +1,5 @@
 
-# All Human - Schets je ontwikkeling
+# Schets je ontwikkeling
 
 Maak een praatplaat waarin je jouw ontwikkeling van de afgelopen sprints en waar je naartoe wil in de komende sprints, laat zien.
 
